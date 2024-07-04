@@ -41,33 +41,3 @@ How to Play
 
     End of Game:
         After the game ends, a message is displayed indicating whether the player wins, loses, or the game ends in a tie.
-
-Example Output
-
-Here is an example of how the game might look during play:
-
-mathematica
-
-     |     |     
-  X  |  O  |  X  
-_____|_____|_____
-     |     |     
-  O  |  X  |  O  
-_____|_____|_____
-     |     |     
-  X  |  O  |  X  
-     |     |     
-
-Enter a spot to place a marker (1-9): 5
-     |     |     
-  X  |  O  |  X  
-_____|_____|_____
-     |     |     
-  O  |  X  |  O  
-_____|_____|_____
-     |     |     
-  X  |  O  |  X  
-     |     |     
-
-YOU WIN!
-Thanks for playing!
