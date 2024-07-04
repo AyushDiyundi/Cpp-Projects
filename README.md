@@ -1,4 +1,4 @@
-# Cpp-Projects
+# Tic-Tac-Toe
 Tic-Tac-Toe Game with Computer
 
 This is a console-based Tic-Tac-Toe game implemented in C++, featuring a simple AI for the computer player.
